@@ -1,0 +1,83 @@
+.logo{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin-bottom: 14px;
+
+}
+.projectname{
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+    font-family: "inter";
+}
+
+
+
+.logocontainer{
+    margin: 0px 20px 0px 30px;
+
+}
+.navitem-1{
+    font-size: 24px;
+    font-family: "inter";
+    font-weight: 500;
+}
+.navitem-2{
+    font-size: 24px;
+}
+.navitems{
+    margin-left: 30px;
+    display: grid;
+    grid-template-columns: auto auto 150px ;
+    grid-gap: 40px;
+}
+.navcontainer{
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 760px;
+
+}
+
+
+.heading1{
+    font-size:40px ;
+    font-family:"inter" ;
+    font-weight:500 ;
+    font-style:italic;
+    color: #000;
+    
+
+}
+.para1{
+    font-size:20px ;
+    font-family:"inter" ;
+    font-weight:500 ;
+    font-style: italic;
+    color: #000;
+}
+
+.card-1{
+    width: 500px;
+}
+.imagecontainer{
+    border-radius: 50%;
+    
+}
+
+.curoselimage{
+    text-align: center;
+    height: 400px;
+    height: 100%;
+    
+}
+
+.contianer-2{
+    padding-top: 100px;
+
+}
+.curoselcard{
+    border-radius: 50%;
+}
